@@ -173,7 +173,7 @@ objects:
               - nodejs-rest-http-crud
             from:
               kind: ImageStreamTag
-              name: 'nodejs-rest-http-crud:latest'
+              name: 'nodejs-rest-http-crud:${RELEASE_VERSION}'
   - apiVersion: v1
     kind: Route
     spec:
