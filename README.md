@@ -6,7 +6,7 @@ Example CRUD Application
 
 #### Running Locally
 
-First, install the dependencies
+First install the dependencies
 
 `npm install`
 
