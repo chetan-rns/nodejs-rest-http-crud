@@ -39,4 +39,3 @@ For this example, you will also need a postgres db running on your Minishift clu
 Then run `npm run openshift` to deploy your app
 
 Then you can navigate to the newly exposed route, something similar to "http://nodejs-rest-http-crud-boosters.192.168.99.100.nip.io/",  this will probably be different based on your Minishift IP address
-
